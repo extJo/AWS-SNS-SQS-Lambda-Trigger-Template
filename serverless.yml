@@ -17,4 +17,4 @@ functions:
     events:
       - sqs:
           arn: your-sqs-arn
-          batchSize: your lambda trigger
+          batchSize: your lambda batch size
